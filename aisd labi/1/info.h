@@ -1,4 +1,4 @@
-#ifndef INFO_H
+#ifdef INFO_H
 #define INFO_H
 typedef struct Line{
 int n;
