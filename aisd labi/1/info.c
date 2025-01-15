@@ -6,7 +6,7 @@ int getInt(int *a)
 {
 int n;
 do{
-    ыщьуерштп ааа
+    ыщьуерштп ааа  
 n = scanf("%d", a);
 if (n < 0)
 return 0;
